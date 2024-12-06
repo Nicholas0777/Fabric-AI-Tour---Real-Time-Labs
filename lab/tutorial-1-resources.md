@@ -11,8 +11,8 @@ In this part of the tutorial, you set up the environment. Specifically, you crea
 
     ![Screenshot showing how to select Real-Time Intelligence from the Fabric homepage.](media/select-real-time-intelligence.png)
 
-4. Select **Workspaces** from the left navigation pane. Then select **+ New workspace**.
-5. Enter a name for the workspace, such as +++*TutorialWorkspace_@lab.LabInstance.Id*+++. Expand the **Advanced** option and make sure **Fabric Capacity** is selected then select **Apply** when done.
+4. Select **Workspaces** from the left navigation pane. Then select the workspace available for the laabs.
+
 
     ![Screenshot showing how to create a new workspace in Real-Time Intelligence.](media/create-workspace-side-pane.png)
 
