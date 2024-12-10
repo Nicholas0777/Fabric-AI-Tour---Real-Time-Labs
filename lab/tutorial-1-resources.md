@@ -13,10 +13,10 @@ In this part of the tutorial, you set up the environment. Specifically, you use 
 
     ![Screenshot showing how to select Real-Time Intelligence from the Fabric homepage.](media/select-real-time-intelligence.png)
 
-4. Select **Workspaces** from the left navigation pane. Then select the workspace available for the laabs.
+4. Select **Workspaces** from the left navigation pane. Then select the workspace available for the labs.
 
 
-    ![Screenshot showing how to select an existing workspace in Real-Time Intelligence.](media\select-WS.png)
+    ![Screenshot showing how to select an existing workspace in Real-Time Intelligence.](media/select-WS.png)
 
 ## Create an eventhouse
 
