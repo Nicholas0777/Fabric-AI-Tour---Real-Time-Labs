@@ -1,12 +1,14 @@
 # Real-Time Intelligence tutorial part 1: Create resources
 
-In this part of the tutorial, you set up the environment. Specifically, you create a *workspace* and an *eventhouse*, which automatically creates a child KQL database, and then you enable OneLake availability.
+In this part of the tutorial, you set up the environment. Specifically, you use a Fabric dedicated *workspace* and create an *eventhouse*, which automatically creates a child KQL database, and then you enable OneLake availability.
 
 ## using a workspace
 1. Open a web browser and browse to https://app.fabric.microsoft.com.
+
 2. When prompted, sign in using the credentials we gave to you:
     * **Email**
     * **Password**
+
 3. Choose **Real-Time Intelligence** from the list of options on the home page or the menu bar on the bottom left of the portal.
 
     ![Screenshot showing how to select Real-Time Intelligence from the Fabric homepage.](media/select-real-time-intelligence.png)
@@ -14,27 +16,27 @@ In this part of the tutorial, you set up the environment. Specifically, you crea
 4. Select **Workspaces** from the left navigation pane. Then select the workspace available for the laabs.
 
 
-    ![Screenshot showing how to create a new workspace in Real-Time Intelligence.](media/create-workspace-side-pane.png)
+    ![Screenshot showing how to select an existing workspace in Real-Time Intelligence.](media\select-WS.png)
 
 ## Create an eventhouse
 
-1. Browse to the workspace that you just created in the previous step. It will be located in the left hand navigation pane under Workspaces.
-2. Ensure that there is a diamond icon next to the workspace name, which indicates that the workspace is associated with a Fabric Capacity.
+
+1. Ensure that there is a diamond icon next to the workspace name, which indicates that the workspace is associated with a Fabric Capacity.
 
     ![Screenshot showing the diamond icon next to the workspace name.](media/workspace-diamond-icon.png)
 
     If the diamond icon is not present, select **Workspace Settings** >  **License Info**. On the License Configuration tile, Select the **Edit**, under License Mode select **Trial**  and finally select *Select License*.
 
 
-3. On the bottom left experience switcher, select **Real-Time Intelligence**.
+2. On the bottom left experience switcher, select **Real-Time Intelligence**.
 
-4. In upper right corner under recommended items to create select **Eventhouse**.
+3. In upper right corner under recommended items to create select **Eventhouse**.
 
     ![Screenshot showing how to create a new eventhouse in Real-Time Intelligence.](media/create-eventhouse.png)
 
-5. Enter +++*Tutorial*+++ as the eventhouse name. A KQL database will be created simultaneously with the same name.
+4. Enter +++*Tutorial*+++ as the eventhouse name. A KQL database will be created simultaneously with the same name.
 
-6. Select **Create**. When provisioning is complete, Select **Get started** and the eventhouse **System overview** page is shown.
+5. Select **Create**. When provisioning is complete, Select **Get started** and the eventhouse **System overview** page is shown.
 
 ## Turn on OneLake availability
 

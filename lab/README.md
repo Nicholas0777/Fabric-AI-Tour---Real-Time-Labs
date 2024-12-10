@@ -9,19 +9,14 @@ This folder contains the public facing files for the lab `Microsoft Fabric: Star
 
 ## Sign into Windows
 
-1. In the virtual machine, sign into Windows using the following credentials:
-   - **User name**: +++@lab.VirtualMachine(Win11-Pro-Base-VM).Username+++
-   - **Password**: +++@lab.VirtualMachine(Win11-Pro-Base-VM).Password+++
+1. In your personal computer, please sign into Windows using your usual credentials.
 
-## Create a trial Teams account
+2. Verify your wifi connection to Internet.
 
-1. In the virtual machine, open Microsoft Teams from the desktop or taskbar.
-2. When prompted, sign in using the following credentials:
-   - **Email**: +++@lab.CloudPortalCredential(User1).Username+++
-   - **Password**: +++@lab.CloudPortalCredential(User1).Password+++
-3. Complete the sign up process to create a new account.
-4. After signing in to Teams, select **OK** when prompted to stay signed in to all your apps and then select **Done** to complete.
-5. Choose **Activate / Explore / Unlock Trial** and when prompted allow Teams to be the default app for chats and calls select **Continue**.
+
+## Use a specific lab account
+
+1. The lab account will be provided by your proctors.
 
 ## Exercises in this lab
 
@@ -41,35 +36,32 @@ Select **Next >** to go to the first exercise.
 
 ===
 
-!INSTRUCTIONS [Real-Time Intelligence tutorial part 1: Create Resources](https://raw.githubusercontent.com/microsoft/aitour-get-started-with-fabric/main/lab/tutorial-1-resources.md)
+!INSTRUCTIONS [Real-Time Intelligence tutorial part 1: Create Resources](https://github.com/Nicholas0777/Fabric-AI-Tour---Real-Time-Labs/blob/main/lab/tutorial-1-resources.md)
 
 ===
 
-!INSTRUCTIONS [Real-Time Intelligence tutorial part 2: Get data in the Real-Time hub](https://raw.githubusercontent.com/microsoft/aitour-get-started-with-fabric/main/lab/tutorial-2-get-real-time-events.md)
+!INSTRUCTIONS [Real-Time Intelligence tutorial part 2: Get data in the Real-Time hub](https://github.com/Nicholas0777/Fabric-AI-Tour---Real-Time-Labs/blob/main/lab/tutorial-2-get-real-time-events.md)
 
 ===
 
-!INSTRUCTIONS [Real-Time Intelligence tutorial part 3: Query streaming data in a KQL queryset](https://raw.githubusercontent.com/microsoft/aitour-get-started-with-fabric/main/lab/tutorial-3-query-data.md)
+!INSTRUCTIONS [Real-Time Intelligence tutorial part 3: Query streaming data in a KQL queryset](https://github.com/Nicholas0777/Fabric-AI-Tour---Real-Time-Labs/blob/main/lab/tutorial-3-query-data.md)
 
 ===
 
-!INSTRUCTIONS [Real-Time Intelligence tutorial part 4: Create a Real-Time dashboard](https://raw.githubusercontent.com/microsoft/aitour-get-started-with-fabric/main/lab/tutorial-4-create-dashboard.md)
+!INSTRUCTIONS [Real-Time Intelligence tutorial part 4: Create a Real-Time dashboard](https://github.com/Nicholas0777/Fabric-AI-Tour---Real-Time-Labs/blob/main/lab/tutorial-4-create-dashboard.md)
 
 ===
 
-!INSTRUCTIONS [Real-Time Intelligence tutorial part 5: Create a Power BI report](https://raw.githubusercontent.com/microsoft/aitour-get-started-with-fabric/main/lab/tutorial-5-power-bi-report.md)
+!INSTRUCTIONS [Real-Time Intelligence tutorial part 5: Create a Power BI report](https://github.com/Nicholas0777/Fabric-AI-Tour---Real-Time-Labs/blob/main/lab/tutorial-5-power-bi-report.md)
 
 ===
 
-!INSTRUCTIONS [Real-Time Intelligence tutorial part 6: Set an alert on your event stream](https://raw.githubusercontent.com/microsoft/aitour-get-started-with-fabric/main/lab/tutorial-6-set-alert.md)
+!INSTRUCTIONS [Real-Time Intelligence tutorial part 6: Set an alert on your event stream](https://github.com/Nicholas0777/Fabric-AI-Tour---Real-Time-Labs/blob/main/lab/tutorial-6-set-alert.md)
 
 ===
 
-!INSTRUCTIONS [Real-Time Intelligence tutorial part 7: Clean up resources](https://raw.githubusercontent.com/microsoft/aitour-get-started-with-fabric/main/lab/tutorial-7-clean-up-resources.md)
+!INSTRUCTIONS [Real-Time Intelligence tutorial part 7: Clean up resources](https://github.com/Nicholas0777/Fabric-AI-Tour---Real-Time-Labs/blob/main/lab/tutorial-7-clean-up-resources.md)
 
-## Discussions
-
-Use the Discussion page on this repository to ask any questions or continue the learning conversation!
 
 ## Additional Resources and Continued Learning
 
