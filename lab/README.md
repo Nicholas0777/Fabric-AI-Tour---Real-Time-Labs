@@ -60,8 +60,6 @@ Select **Next >** to go to the first exercise.
 
 ===
 
-!INSTRUCTIONS [Real-Time Intelligence tutorial part 7: Clean up resources](https://github.com/Nicholas0777/Fabric-AI-Tour---Real-Time-Labs/blob/main/lab/tutorial-7-clean-up-resources.md)
-
 
 ## Additional Resources and Continued Learning
 

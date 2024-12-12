@@ -32,6 +32,6 @@ The event stream insights are now available for you to create alerts. In this pa
 
     At this point, you have completed the last part of the tutorial. The alert is set and you receive a notification in Teams when the condition is met. This takes some time to trigger the alert so you might want to wait for a few minutes to receive the notification on Microsoft Teams.
 
-## Next step
+## End of Labs.
 
-> Select **Next >** to clean up resources
+6. End of the Labs. Thank you!
